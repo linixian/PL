@@ -8,5 +8,5 @@
 # 課程筆記區 
 
 # 作業連結區 
-[作業一](http://localhost:8888/notebooks/Documents/GitHub/PL/Untitled.ipynb?kernel_name=python3)
+[作業一](https://github.com/linixian/PL/blob/main/.ipynb_checkpoints/Untitled-checkpoint.ipynb)
 # 專題連結區 
