@@ -10,4 +10,5 @@
 # 作業連結區 
 [作業一](https://github.com/linixian/PL/blob/main/.ipynb_checkpoints/Untitled-checkpoint.ipynb)
 [作業二](https://github.com/linixian/PL/blob/main/hw2%20btslist.ipynb)
+[作業三](https://github.com/linixian/PL/blob/main/hw3.py)
 # 專題連結區 
